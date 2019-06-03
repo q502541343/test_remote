@@ -8,3 +8,6 @@ if int(num) == 2:
 
 if int(num) == 3:
     print('你好可爱')
+
+if int(num) == 4:
+    print('你太坏了')
