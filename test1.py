@@ -5,3 +5,6 @@ if int(num) == 1:
 
 if int(num) == 2:
     print('你真难看')
+
+if int(num) == 3:
+    print('你好可爱')
