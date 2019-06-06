@@ -14,3 +14,6 @@ if int(num) == 4:
 
 if int(num) == 5:
     print('你是个好人')
+
+if int(num) == 6:
+    print('你好聪明')
