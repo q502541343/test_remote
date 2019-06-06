@@ -19,4 +19,4 @@ if int(num) == 6:
     print('你好聪明')
 
 if int(num) == 7:
-    print('你好活泼')
+    print('你好蠢')
