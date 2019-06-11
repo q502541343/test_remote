@@ -20,3 +20,12 @@ if int(num) == 6:
 
 if int(num) == 7:
     print('你好蠢')
+
+if int(num) == 8:
+    print('你好帅')
+
+if int(num) == 9:
+    print('你好不要脸')
+
+if int(num) == 10:
+    print('你好菜')
